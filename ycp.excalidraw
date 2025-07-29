@@ -8365,36 +8365,6 @@
       "endArrowhead": null
     },
     {
-      "id": "gG3w__wf0zFL46lIbFozA",
-      "type": "ellipse",
-      "x": 766.9219707883035,
-      "y": -257.51144522202253,
-      "width": 751.1522227390182,
-      "height": 748.664963723327,
-      "angle": 0,
-      "strokeColor": "#f08c00",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "b6e",
-      "roundness": {
-        "type": 2
-      },
-      "seed": 533227060,
-      "version": 154,
-      "versionNonce": 782645900,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1753708117932,
-      "link": null,
-      "locked": false
-    },
-    {
       "id": "mKFyuaoYt_1ESYr8_J0yj",
       "type": "text",
       "x": -5226.563485163356,
@@ -8497,6 +8467,102 @@
       "originalText": "3.B Sessions ratings\n    3.B.1 Get ratings\n        url: POST session-ratings/get-session-ratings\n        aim: Create a new session.\n             It will automatically add the owner type and institute_id/trainer_id,\n             depending on the user is institute or trainer. \n    3.B.2 Give ratings\n        url: POST session-ratings/\n        aim: Get announcements by session_id.\n    3.B.3 Update ratings [Till 15 mins of creation]\n        url: PUT session-ratings/update-session-ratings\n    3.B.4 Del ratings[Till 15 mins of creation]\n        url: DEL session-ratings/delete-session-ratings",
       "autoResize": true,
       "lineHeight": 1.25
+    },
+    {
+      "id": "mABFjwqxGad90D0RDm8Oo",
+      "type": "freedraw",
+      "x": 881.6803070071738,
+      "y": -84.2153127882006,
+      "width": 178.02581454865629,
+      "height": 95.86005398773796,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b6k",
+      "roundness": null,
+      "seed": 1628011502,
+      "version": 16,
+      "versionNonce": 838610414,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1753783097858,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.8055466721658604,
+          0
+        ],
+        [
+          4.027733360829302,
+          3.2221866886634984
+        ],
+        [
+          24.971946837141786,
+          22.55530682064426
+        ],
+        [
+          30.610773542302923,
+          26.583040181473564
+        ],
+        [
+          32.22186688663464,
+          27.388586853639424
+        ],
+        [
+          33.027413558800504,
+          27.388586853639424
+        ],
+        [
+          39.47178693612739,
+          20.94421347631254
+        ],
+        [
+          84.5824005774158,
+          -15.305386771151404
+        ],
+        [
+          145.80394766202164,
+          -49.94389367428363
+        ],
+        [
+          157.0816010723437,
+          -55.58272037944465
+        ],
+        [
+          177.2202678764903,
+          -66.86037378976681
+        ],
+        [
+          178.02581454865629,
+          -67.66592046193267
+        ],
+        [
+          178.02581454865629,
+          -68.47146713409853
+        ],
+        [
+          178.02581454865629,
+          -68.47146713409853
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        178.02581454865629,
+        -68.47146713409853
+      ]
     }
   ],
   "appState": {
