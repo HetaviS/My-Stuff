@@ -408,8 +408,8 @@
     {
       "id": "N59opKQ8pKm1OfysY_PJa",
       "type": "rectangle",
-      "x": -4002.5082221273087,
-      "y": -662.4991636182118,
+      "x": -3085.8415554606418,
+      "y": -1455.8324969515452,
       "width": 900.1556785407128,
       "height": 203.21893755767178,
       "angle": 0,
@@ -427,19 +427,19 @@
         "type": 3
       },
       "seed": 1286876399,
-      "version": 435,
-      "versionNonce": 776427944,
+      "version": 462,
+      "versionNonce": 1950928704,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1753447709171,
+      "updated": 1753853897181,
       "link": null,
       "locked": false
     },
     {
       "id": "7axc3_IYA1YRkNa6rv_f1",
       "type": "text",
-      "x": -3723.733525734092,
-      "y": -639.0508246692498,
+      "x": -2807.066859067425,
+      "y": -1432.3841580025833,
       "width": 287.301963231063,
       "height": 61.22621836673444,
       "angle": 0,
@@ -455,11 +455,11 @@
       "index": "aa",
       "roundness": null,
       "seed": 1389567599,
-      "version": 494,
-      "versionNonce": 1068659928,
+      "version": 521,
+      "versionNonce": 1760356160,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1753447709171,
+      "updated": 1753853897181,
       "link": null,
       "locked": false,
       "text": "Guest Mode",
@@ -475,8 +475,8 @@
     {
       "id": "zK_ItNCChOqI3x6-W81TN",
       "type": "text",
-      "x": -3809.7107685469527,
-      "y": -560.889694839376,
+      "x": -2893.044101880286,
+      "y": -1354.2230281727093,
       "width": 512.8146210170883,
       "height": 65.13427485822812,
       "angle": 0,
@@ -492,11 +492,11 @@
       "index": "ac",
       "roundness": null,
       "seed": 415293761,
-      "version": 442,
-      "versionNonce": 578675880,
+      "version": 469,
+      "versionNonce": 1632501568,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1753447709171,
+      "updated": 1753853897181,
       "link": null,
       "locked": false,
       "text": "view posts, comments, sessions, profiles.\n",
@@ -942,8 +942,8 @@
     {
       "id": "Dz4ORFgORnOFEpRObnoiP",
       "type": "rectangle",
-      "x": -2832.2950292498044,
-      "y": -303.6270703190082,
+      "x": -2902.2950292498044,
+      "y": -910.2937369856747,
       "width": 696.936740983041,
       "height": 272.2612689073935,
       "angle": 0,
@@ -961,19 +961,19 @@
         "type": 3
       },
       "seed": 790630387,
-      "version": 544,
-      "versionNonce": 449239000,
+      "version": 582,
+      "versionNonce": 1293589696,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1753447709171,
+      "updated": 1753853902662,
       "link": null,
       "locked": false
     },
     {
       "id": "4Bh4R9gE_47gqzg-n-kty",
       "type": "text",
-      "x": -2676.0914233755257,
-      "y": -277.5733603757178,
+      "x": -2746.0914233755257,
+      "y": -884.2400270423843,
       "width": 354.950948247552,
       "height": 56.01547637807616,
       "angle": 0,
@@ -989,11 +989,11 @@
       "index": "b02",
       "roundness": null,
       "seed": 724748243,
-      "version": 496,
-      "versionNonce": 2073375144,
+      "version": 534,
+      "versionNonce": 824771776,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1753447709171,
+      "updated": 1753853902662,
       "link": null,
       "locked": false,
       "text": "Manage Trainers",
@@ -1009,8 +1009,8 @@
     {
       "id": "oxqTF-HL17702PGpbNGUF",
       "type": "text",
-      "x": -2767.160754391576,
-      "y": -135.58064118478023,
+      "x": -2837.160754391576,
+      "y": -742.2473078514467,
       "width": 188.80583844896236,
       "height": 58.62084737240531,
       "angle": 0,
@@ -1026,11 +1026,11 @@
       "index": "b04",
       "roundness": null,
       "seed": 835846835,
-      "version": 503,
-      "versionNonce": 416160984,
+      "version": 541,
+      "versionNonce": 1462398144,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1753447709171,
+      "updated": 1753853902662,
       "link": null,
       "locked": false,
       "text": "Send trainer req.\nRemove trainer",
@@ -1083,8 +1083,8 @@
     {
       "id": "pNaB4gmhA6OW42RrzmTPq",
       "type": "text",
-      "x": -2762.686072644006,
-      "y": -181.77480629479692,
+      "x": -2832.686072644006,
+      "y": -788.4414729614634,
       "width": 148.18796908348142,
       "height": 40.28091033345323,
       "angle": 0,
@@ -1100,11 +1100,11 @@
       "index": "b06",
       "roundness": null,
       "seed": 431640211,
-      "version": 838,
-      "versionNonce": 1067762136,
+      "version": 876,
+      "versionNonce": 146724032,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1753447709171,
+      "updated": 1753853902662,
       "link": null,
       "locked": false,
       "text": "Institute",
@@ -1120,8 +1120,8 @@
     {
       "id": "D3PglFeMVBmCFYYC5oXWe",
       "type": "text",
-      "x": -2460.463037301829,
-      "y": -175.26137880897522,
+      "x": -2530.463037301829,
+      "y": -781.9280454756417,
       "width": 110.89770224400108,
       "height": 40.28091033345323,
       "angle": 0,
@@ -1137,11 +1137,11 @@
       "index": "b07",
       "roundness": null,
       "seed": 2082058067,
-      "version": 851,
-      "versionNonce": 191031208,
+      "version": 889,
+      "versionNonce": 1535524032,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1753447709171,
+      "updated": 1753853902662,
       "link": null,
       "locked": false,
       "text": "Trainer",
@@ -1157,8 +1157,8 @@
     {
       "id": "1C99A-mYVKeu-LbVBj7hQ",
       "type": "text",
-      "x": -2457.731169495043,
-      "y": -131.02124194470412,
+      "x": -2527.731169495043,
+      "y": -737.6879086113706,
       "width": 300.8168283290649,
       "height": 29.310423686202643,
       "angle": 0,
@@ -1174,11 +1174,11 @@
       "index": "b08",
       "roundness": null,
       "seed": 1885935763,
-      "version": 613,
-      "versionNonce": 2120140504,
+      "version": 651,
+      "versionNonce": 824222912,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1753447709171,
+      "updated": 1753853902662,
       "link": null,
       "locked": false,
       "text": "Accept/Reject trainer req.",
@@ -1194,10 +1194,10 @@
     {
       "id": "4OEVQtrFzBR6H7t-JQPoZ",
       "type": "rectangle",
-      "x": -2830.3410010040575,
-      "y": 22.69564672071533,
-      "width": 515.8634568771668,
-      "height": 396.01639113802696,
+      "x": -2805.0778431093204,
+      "y": -370.63768661261815,
+      "width": 585.3371410876928,
+      "height": 449.34972447136005,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -1213,21 +1213,21 @@
         "type": 3
       },
       "seed": 882745011,
-      "version": 646,
-      "versionNonce": 821539496,
+      "version": 701,
+      "versionNonce": 1398787904,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1753447709171,
+      "updated": 1753853908853,
       "link": null,
       "locked": false
     },
     {
       "id": "lH5jduf9rUnN-EyCePU1U",
       "type": "text",
-      "x": -2747.087782970994,
-      "y": 51.35472765833538,
-      "width": 362.61328963926036,
-      "height": 56.01547637807616,
+      "x": -2710.6125345471996,
+      "y": -338.11895655219115,
+      "width": 411.4480749668369,
+      "height": 63.559336027198924,
       "angle": 0,
       "strokeColor": "#2f9e44",
       "backgroundColor": "transparent",
@@ -1241,15 +1241,15 @@
       "index": "b0A",
       "roundness": null,
       "seed": 1736265811,
-      "version": 593,
-      "versionNonce": 1099967448,
+      "version": 648,
+      "versionNonce": 1294198592,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1753447709171,
+      "updated": 1753853908853,
       "link": null,
       "locked": false,
       "text": "Manage Sessions",
-      "fontSize": 44.81238110246094,
+      "fontSize": 50.84746882175915,
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "top",
@@ -1261,10 +1261,10 @@
     {
       "id": "jCCDtwHAoAXnTe0pKUvOD",
       "type": "text",
-      "x": -2766.509411642995,
-      "y": 190.74207585494332,
-      "width": 385.21683895154194,
-      "height": 205.1729658034185,
+      "x": -2732.6497625201882,
+      "y": -179.95967853102192,
+      "width": 437.0957473431261,
+      "height": 232.80454475078676,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -1278,15 +1278,15 @@
       "index": "b0B",
       "roundness": null,
       "seed": 850775539,
-      "version": 857,
-      "versionNonce": 2142969256,
+      "version": 912,
+      "versionNonce": 648347456,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1753447709171,
+      "updated": 1753853908853,
       "link": null,
       "locked": false,
       "text": "- CRU\n- Accept/reject students req.\n- Start the call\n- Get attendance sheet updated\nafter every call\n- Provide recorded sessions\n- Provide diet charts",
-      "fontSize": 23.44833894896211,
+      "fontSize": 26.6062336858042,
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "top",
@@ -1298,10 +1298,10 @@
     {
       "id": "ZXb0M36jtWH0vpESQQSiP",
       "type": "text",
-      "x": -2760.73204439826,
-      "y": 143.2452252477599,
-      "width": 277.15029512500064,
-      "height": 40.28091033345323,
+      "x": -2726.094330882292,
+      "y": -233.8531466075907,
+      "width": 314.47538924763614,
+      "height": 45.70572421959207,
       "angle": 0,
       "strokeColor": "#1971c2",
       "backgroundColor": "transparent",
@@ -1315,15 +1315,15 @@
       "index": "b0C",
       "roundness": null,
       "seed": 692950931,
-      "version": 871,
-      "versionNonce": 1129115864,
+      "version": 926,
+      "versionNonce": 1615009600,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1753447709171,
+      "updated": 1753853908853,
       "link": null,
       "locked": false,
       "text": "Institute/Trainer",
-      "fontSize": 32.22472826676258,
+      "fontSize": 36.56457937567366,
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "top",
@@ -7297,7 +7297,7 @@
       "id": "d01DLJVyctKp2JwNNuQFw",
       "type": "text",
       "x": -5172.38671931169,
-      "y": 1620.7200715873373,
+      "y": 1520.7200715873373,
       "width": 775.3221295064855,
       "height": 373.8340780494997,
       "angle": 0,
@@ -7313,11 +7313,11 @@
       "index": "b65",
       "roundness": null,
       "seed": 1574279384,
-      "version": 2059,
-      "versionNonce": 1152931468,
+      "version": 2067,
+      "versionNonce": 5244096,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1753699899725,
+      "updated": 1753852832906,
       "link": null,
       "locked": false,
       "text": "1 Auth\n    1.1 Register email\n        url: POST auth/register\n        aim: Register email\n    1.2 Verify-otp\n        url: POST auth/verify-otp\n        aim: Verify otp",
@@ -7370,8 +7370,8 @@
     {
       "id": "eu5ZXK3cVRnwLrtoGNot2",
       "type": "text",
-      "x": -5245.040281696089,
-      "y": 2395.25952597773,
+      "x": -5256.706948362756,
+      "y": 5391.926192644397,
       "width": 1889.3519731239548,
       "height": 960.7006808345153,
       "angle": 0,
@@ -7387,11 +7387,11 @@
       "index": "b6B",
       "roundness": null,
       "seed": 316104872,
-      "version": 735,
-      "versionNonce": 808014516,
+      "version": 939,
+      "versionNonce": 1784028352,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1753699888393,
+      "updated": 1753870259226,
       "link": null,
       "locked": false,
       "text": "4 Institute-trainer\n    4.1 Send trainer req, by inst[sends notification to trainer]\n        url: POST institute-trainer\n        aim: Send a re. to trainer to join my(current user's) institute.\n    4.2 Update trainer req status[sends notification to institute]\n        url: PATCH institute-trainer/update-status\n        aim: Trainers can only accept or reject associations\n             Institutes can only cancel or terminate associations\n    4.3 Get trainers by institute_id\n        url: POST institute-trainer/trainers\n        aim: Get my all trainers(for trainer/institute's admin panel).\n    4.4 Get institute by trainer_id\n        url: POST institute-trainer/institutes\n        aim: Get my all institutes(for trainer/institute's admin panel).\n    4.5 My stats\n        url: GET institute-trainer/my-stats\n        aim: All the association stats(for trainer/institute's admin panel).",
@@ -7408,7 +7408,7 @@
       "id": "RZu_NAXIOGWZmc02VSj6K",
       "type": "text",
       "x": -4244.291677812935,
-      "y": 1610.887302974351,
+      "y": 1510.887302974351,
       "width": 907.7819569951512,
       "height": 557.6055503605666,
       "angle": 0,
@@ -7424,11 +7424,11 @@
       "index": "b6C",
       "roundness": null,
       "seed": 1552473512,
-      "version": 324,
-      "versionNonce": 1173119412,
+      "version": 332,
+      "versionNonce": 695299264,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1753699906996,
+      "updated": 1753852832906,
       "link": null,
       "locked": false,
       "text": "2 Current user\n    2.1 get current user profile\n        url: GET me/prfile\n        aim: get the profile details\n    2.2 get user notifications\n        url: GET me/notifications\n        aim: get user's notifications\n    2.3 update current user's profile\n        url: PUT me/update\n",
@@ -7445,7 +7445,7 @@
       "id": "NCt-jS3yiAxsfdk-AMgNJ",
       "type": "rectangle",
       "x": -5256.049742006207,
-      "y": 1565.9685057003635,
+      "y": 1465.9685057003635,
       "width": 917.8044873724258,
       "height": 588.5694827013364,
       "angle": 0,
@@ -7463,11 +7463,11 @@
         "type": 3
       },
       "seed": 2076919256,
-      "version": 223,
-      "versionNonce": 192061492,
+      "version": 231,
+      "versionNonce": 2049299648,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1753699917648,
+      "updated": 1753852832906,
       "link": null,
       "locked": false
     },
@@ -7475,7 +7475,7 @@
       "id": "WAIU_IXzfxp3JDisF_KbA",
       "type": "rectangle",
       "x": -4273.1314725632055,
-      "y": 1563.9446961765539,
+      "y": 1463.9446961765539,
       "width": 1011.4705332121908,
       "height": 583.5406922378024,
       "angle": 0,
@@ -7493,11 +7493,11 @@
         "type": 3
       },
       "seed": 267220392,
-      "version": 181,
-      "versionNonce": 316541748,
+      "version": 189,
+      "versionNonce": 135085248,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1753699906996,
+      "updated": 1753852832906,
       "link": null,
       "locked": false
     },
@@ -7534,8 +7534,8 @@
     {
       "id": "JEW8TLfLXz4Xd_PQXJs6h",
       "type": "rectangle",
-      "x": -5268.171201178607,
-      "y": 2330.171964957378,
+      "x": -5279.837867845274,
+      "y": 5326.838631624045,
       "width": 2027.283770351584,
       "height": 1103.0167610730123,
       "angle": 0,
@@ -7553,11 +7553,11 @@
         "type": 3
       },
       "seed": 1247708376,
-      "version": 269,
-      "versionNonce": 1070686860,
+      "version": 473,
+      "versionNonce": 452232384,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1753699888393,
+      "updated": 1753870259226,
       "link": null,
       "locked": false
     },
@@ -7567,7 +7567,7 @@
       "x": -5325.736234452928,
       "y": 1339.350751298603,
       "width": 4338.089157123918,
-      "height": 4447.470474895741,
+      "height": 6336.917248981197,
       "angle": 0,
       "strokeColor": "#2f9e44",
       "backgroundColor": "transparent",
@@ -7583,11 +7583,11 @@
         "type": 3
       },
       "seed": 2016834776,
-      "version": 248,
-      "versionNonce": 695295248,
+      "version": 305,
+      "versionNonce": 1728775360,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1753710862501,
+      "updated": 1753870214237,
       "link": null,
       "locked": false
     },
@@ -7631,15 +7631,15 @@
     {
       "id": "-v_IWHnlAt_UCxkfKtmZA",
       "type": "rectangle",
-      "x": -5264.84103817675,
-      "y": 3531.3201971795506,
-      "width": 1993.3333333333326,
-      "height": 989.9999999999991,
+      "x": -5239.8715902484855,
+      "y": 2156.280313967587,
+      "width": 1981.8275252288572,
+      "height": 966.9026337675087,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
       "fillStyle": "solid",
-      "strokeWidth": 2,
+      "strokeWidth": 4,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
@@ -7650,11 +7650,11 @@
         "type": 3
       },
       "seed": 1551118260,
-      "version": 139,
-      "versionNonce": 1641247728,
+      "version": 225,
+      "versionNonce": 855153856,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1753711097744,
+      "updated": 1753853858083,
       "link": null,
       "locked": false
     },
@@ -8367,10 +8367,10 @@
     {
       "id": "mKFyuaoYt_1ESYr8_J0yj",
       "type": "text",
-      "x": -5226.563485163356,
-      "y": 3576.2878961570073,
-      "width": 1941.417724609375,
-      "height": 861.2386334109904,
+      "x": -5202.487078306237,
+      "y": 2200.198886266342,
+      "width": 1896.1231425936671,
+      "height": 841.1453565125428,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -8384,15 +8384,15 @@
       "index": "b6h",
       "roundness": null,
       "seed": 353103120,
-      "version": 1103,
-      "versionNonce": 121053168,
+      "version": 1183,
+      "versionNonce": 771034304,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1753711267374,
+      "updated": 1753852832906,
       "link": null,
       "locked": false,
       "text": "3.A Sessions Announcements\n    3.A.1 Make Announcements\n        url: POST session-announcements/\n        aim: Create a new session.\n             It will automatically add the owner type and institute_id/trainer_id,\n             depending on the user is institute or trainer. \n    3.A.2 Get announcements\n        url: POST session-announcements/get-session-announcements\n        aim: Get announcements by session_id.\n    3.A.3 Update announcements [Till 15 mins of creation]\n        url: PUT session-announcements/update-session-announcements\n    3.A.4 Del announcements[Till 15 mins of creation]\n        url: DEL session-announcements/delete-session-announcements\n    3.A.5 Announcements stats\n        url: GET session-announcements/stats/summary\n        aim: Get announcements count in past few days, cnt per month, ...",
-      "fontSize": 43.06193167054952,
+      "fontSize": 42.057267825627136,
       "fontFamily": 8,
       "textAlign": "left",
       "verticalAlign": "top",
@@ -8404,15 +8404,15 @@
     {
       "id": "AdEEA5I55DahSWKHsHiEN",
       "type": "rectangle",
-      "x": -3142.817228652938,
-      "y": 3564.3360701954234,
-      "width": 1993.3333333333326,
-      "height": 989.9999999999991,
+      "x": -5241.150561986271,
+      "y": 3279.139986306544,
+      "width": 1981.827525228857,
+      "height": 966.9026337675087,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
       "fillStyle": "solid",
-      "strokeWidth": 2,
+      "strokeWidth": 4,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
@@ -8423,21 +8423,21 @@
         "type": 3
       },
       "seed": 657198576,
-      "version": 177,
-      "versionNonce": 1535352304,
+      "version": 322,
+      "versionNonce": 63113024,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1753711103135,
+      "updated": 1753870253151,
       "link": null,
       "locked": false
     },
     {
       "id": "XN0kc-mmusTVrEC1q0-9h",
       "type": "text",
-      "x": -3104.539675639545,
-      "y": 3605.970435839547,
-      "width": 1941.417724609375,
-      "height": 699.7563896464296,
+      "x": -5203.766050044023,
+      "y": 3319.80299418184,
+      "width": 1662.3836452471783,
+      "height": 845.8774862402374,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -8451,21 +8451,21 @@
       "index": "b6j",
       "roundness": null,
       "seed": 341102576,
-      "version": 1194,
-      "versionNonce": 2028342032,
+      "version": 1382,
+      "versionNonce": 952735552,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1753711371997,
+      "updated": 1753853840401,
       "link": null,
       "locked": false,
-      "text": "3.B Sessions ratings\n    3.B.1 Get ratings\n        url: POST session-ratings/get-session-ratings\n        aim: Create a new session.\n             It will automatically add the owner type and institute_id/trainer_id,\n             depending on the user is institute or trainer. \n    3.B.2 Give ratings\n        url: POST session-ratings/\n        aim: Get announcements by session_id.\n    3.B.3 Update ratings [Till 15 mins of creation]\n        url: PUT session-ratings/update-session-ratings\n    3.B.4 Del ratings[Till 15 mins of creation]\n        url: DEL session-ratings/delete-session-ratings",
-      "fontSize": 43.06193167054952,
+      "text": "3.B Sessions ratings\n    3.B.1 Get ratings\n        url: POST session-ratings/get-session-ratings\n        aim: Create a new session.\n             It will automatically add the owner type and\ninstitute_id/trainer_id,\n             depending on the user is institute or trainer. \n    3.B.2 Give ratings\n        url: POST session-ratings/\n        aim: Get announcements by session_id.\n    3.B.3 Update ratings [Till 15 mins of creation]\n        url: PUT session-ratings/update-session-ratings\n    3.B.4 Del ratings[Till 15 mins of creation]\n        url: DEL session-ratings/delete-session-ratings",
+      "fontSize": 48.335856356585,
       "fontFamily": 8,
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "3.B Sessions ratings\n    3.B.1 Get ratings\n        url: POST session-ratings/get-session-ratings\n        aim: Create a new session.\n             It will automatically add the owner type and institute_id/trainer_id,\n             depending on the user is institute or trainer. \n    3.B.2 Give ratings\n        url: POST session-ratings/\n        aim: Get announcements by session_id.\n    3.B.3 Update ratings [Till 15 mins of creation]\n        url: PUT session-ratings/update-session-ratings\n    3.B.4 Del ratings[Till 15 mins of creation]\n        url: DEL session-ratings/delete-session-ratings",
-      "autoResize": true,
+      "autoResize": false,
       "lineHeight": 1.25
     },
     {
@@ -8491,7 +8491,7 @@
       "version": 16,
       "versionNonce": 838610414,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1753783097858,
       "link": null,
       "locked": false,
@@ -8559,10 +8559,753 @@
       ],
       "pressures": [],
       "simulatePressure": true,
+      "lastCommittedPoint": null
+    },
+    {
+      "id": "wKrKVZl1iSUxs_TShg7f0",
+      "type": "rectangle",
+      "x": -5240.777546113257,
+      "y": 4347.467022576377,
+      "width": 1214.7298254684015,
+      "height": 891.91464897416,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b6l",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1261485248,
+      "version": 217,
+      "versionNonce": 100065088,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1753870231087,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "4rMl2DOafqcWyhMLjcqer",
+      "type": "text",
+      "x": -5183.18951486794,
+      "y": 4399.425120459069,
+      "width": 878.2471215861096,
+      "height": 782.8532066137285,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b6m",
+      "roundness": null,
+      "seed": 128651072,
+      "version": 1680,
+      "versionNonce": 930432832,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1753870222628,
+      "link": null,
+      "locked": false,
+      "text": "5 Follow\n    5.1 Follow user\n        url: POST follows/send-request\n    5.2 Unfollow\n        url: DEL follows/unfollow\n    5.3 Update follow req\n        url: PATCH follows/respond-request\n    5.4 remove follower\n        url: DEL follows/remove-follower\n    5.5 Get followers\n        url: POST follows/followers\n    5.6 Get following\n        url: POST follows/following\n    5.7 Get pending req.\n        url: POST follows/pending-requests\n    5.8 Get mutuals.\n        url: POST follows/mutuals",
+      "fontSize": 36.840150899469585,
+      "fontFamily": 8,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "5 Follow\n    5.1 Follow user\n        url: POST follows/send-request\n    5.2 Unfollow\n        url: DEL follows/unfollow\n    5.3 Update follow req\n        url: PATCH follows/respond-request\n    5.4 remove follower\n        url: DEL follows/remove-follower\n    5.5 Get followers\n        url: POST follows/followers\n    5.6 Get following\n        url: POST follows/following\n    5.7 Get pending req.\n        url: POST follows/pending-requests\n    5.8 Get mutuals.\n        url: POST follows/mutuals",
+      "autoResize": false,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "7LgXwtF62PB6wR3-e_hdR",
+      "type": "freedraw",
+      "x": 156.38912055340688,
+      "y": -1314.6440885347356,
+      "width": 226,
+      "height": 143,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b6p",
+      "roundness": null,
+      "seed": 901954752,
+      "version": 12,
+      "versionNonce": 1262365888,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1753870106092,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -1,
+          4
+        ],
+        [
+          -1,
+          5
+        ],
+        [
+          20,
+          47
+        ],
+        [
+          28,
+          59
+        ],
+        [
+          31,
+          59
+        ],
+        [
+          39,
+          51
+        ],
+        [
+          196,
+          -59
+        ],
+        [
+          208,
+          -70
+        ],
+        [
+          225,
+          -84
+        ],
+        [
+          225,
+          -84
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
       "lastCommittedPoint": [
-        178.02581454865629,
-        -68.47146713409853
+        225,
+        -84
       ]
+    },
+    {
+      "id": "udjP2H187Fk5XERkrDgSq",
+      "type": "freedraw",
+      "x": -1702.2435114147506,
+      "y": -757.0942434563694,
+      "width": 207.7312287631912,
+      "height": 96.03447678933253,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b6q",
+      "roundness": null,
+      "seed": 869668672,
+      "version": 19,
+      "versionNonce": 512468160,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1753870115516,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.8243302728697017,
+          1.23649540930478
+        ],
+        [
+          3.7094862279141125,
+          4.121651364349077
+        ],
+        [
+          12.777119229481968,
+          13.601449502351898
+        ],
+        [
+          18.135266003135712,
+          17.72310086670086
+        ],
+        [
+          18.547431139570563,
+          18.135266003135712
+        ],
+        [
+          21.432587094614973,
+          19.37176141244049
+        ],
+        [
+          22.256917367484675,
+          20.196091685310307
+        ],
+        [
+          25.142073322529086,
+          22.25691736748479
+        ],
+        [
+          27.202899004703568,
+          23.90557791322442
+        ],
+        [
+          27.615064141138646,
+          24.317743049659384
+        ],
+        [
+          42.453009052795096,
+          12.777119229481968
+        ],
+        [
+          49.87198150862332,
+          7.418972455828225
+        ],
+        [
+          132.30500879560395,
+          -37.09486227914135
+        ],
+        [
+          151.67677020804445,
+          -45.33816500783939
+        ],
+        [
+          201.96091685310262,
+          -69.24374292106381
+        ],
+        [
+          207.7312287631912,
+          -71.71673373967315
+        ],
+        [
+          207.7312287631912,
+          -71.71673373967315
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        207.7312287631912,
+        -71.71673373967315
+      ]
+    },
+    {
+      "id": "E4G86qa2Y92kVe0Es4Sqh",
+      "type": "freedraw",
+      "x": -1336.2408702605562,
+      "y": -748.0266104548015,
+      "width": 197.4271003523188,
+      "height": 112.52108224672861,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b6r",
+      "roundness": null,
+      "seed": 909844288,
+      "version": 12,
+      "versionNonce": 397061952,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1753870118924,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1.2364954093045526,
+          2.4729908186094463
+        ],
+        [
+          4.121651364348963,
+          5.770311910088708
+        ],
+        [
+          23.905577913224306,
+          35.03403659696687
+        ],
+        [
+          27.202899004703568,
+          38.74352282488098
+        ],
+        [
+          27.202899004703568,
+          37.91919255201117
+        ],
+        [
+          28.8515595504432,
+          33.79754118766209
+        ],
+        [
+          105.51427492733524,
+          -19.371761412440378
+        ],
+        [
+          192.06895357866506,
+          -70.89240346680333
+        ],
+        [
+          197.4271003523188,
+          -73.77755942184763
+        ],
+        [
+          197.4271003523188,
+          -73.77755942184763
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        197.4271003523188,
+        -73.77755942184763
+      ]
+    },
+    {
+      "id": "lvqHRJtDY_GUlG-j81LjQ",
+      "type": "freedraw",
+      "x": -981.778852926539,
+      "y": -767.398371867242,
+      "width": 178.46750407631316,
+      "height": 93.56148597072297,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b6t",
+      "roundness": null,
+      "seed": 186562368,
+      "version": 20,
+      "versionNonce": 1342089024,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1753870126860,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.41216513643485087,
+          0.41216513643496455
+        ],
+        [
+          2.4729908186094463,
+          2.4729908186094463
+        ],
+        [
+          9.891963274437671,
+          13.601449502351784
+        ],
+        [
+          18.95959627600564,
+          29.675889823313014
+        ],
+        [
+          22.25691736748479,
+          36.27053200627154
+        ],
+        [
+          23.081247640354604,
+          37.507027415576204
+        ],
+        [
+          23.493412776789455,
+          38.33135768844602
+        ],
+        [
+          24.317743049659384,
+          39.155687961315834
+        ],
+        [
+          25.142073322529086,
+          39.98001823418565
+        ],
+        [
+          25.554238458963937,
+          40.3921833706205
+        ],
+        [
+          26.378568731833866,
+          40.3921833706205
+        ],
+        [
+          45.75033014427436,
+          29.263724686878163
+        ],
+        [
+          47.81115582644884,
+          27.615064141138532
+        ],
+        [
+          117.87922902038235,
+          -15.250110048091415
+        ],
+        [
+          156.62275184526334,
+          -42.45300905279498
+        ],
+        [
+          168.16337566544053,
+          -48.22332096288369
+        ],
+        [
+          178.46750407631316,
+          -53.16930260010247
+        ],
+        [
+          178.46750407631316,
+          -53.16930260010247
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        178.46750407631316,
+        -53.16930260010247
+      ]
+    },
+    {
+      "id": "Ckw0uAp5u91W97je2ab1a",
+      "type": "freedraw",
+      "x": -596.8166154963387,
+      "y": -765.7497113215023,
+      "width": 169.39987107474525,
+      "height": 104.27777951803057,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b6u",
+      "roundness": null,
+      "seed": 1185338560,
+      "version": 16,
+      "versionNonce": 116790464,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1753870130365,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1.6486605457396308,
+          0.8243302728698154
+        ],
+        [
+          3.297321091479148,
+          1.6486605457396308
+        ],
+        [
+          14.83794491165645,
+          14.013614638786748
+        ],
+        [
+          23.905577913224306,
+          30.50022009618283
+        ],
+        [
+          25.142073322529086,
+          31.324550369052645
+        ],
+        [
+          27.61506414113842,
+          35.44620173340172
+        ],
+        [
+          28.8515595504432,
+          36.68269714270639
+        ],
+        [
+          30.50022009618283,
+          35.03403659696676
+        ],
+        [
+          34.20970632409694,
+          30.08805495974798
+        ],
+        [
+          107.16293547307481,
+          -27.20289900470368
+        ],
+        [
+          120.76438497542665,
+          -35.44620173340172
+        ],
+        [
+          167.75121052900562,
+          -66.77075210245437
+        ],
+        [
+          169.39987107474525,
+          -67.59508237532418
+        ],
+        [
+          169.39987107474525,
+          -67.59508237532418
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        169.39987107474525,
+        -67.59508237532418
+      ]
+    },
+    {
+      "id": "LzhxTno30ZQ4OFGYussoz",
+      "type": "freedraw",
+      "x": -97.85375475791983,
+      "y": -97.42300196967278,
+      "width": 228.34664344223188,
+      "height": 120.24050306861483,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b6v",
+      "roundness": null,
+      "seed": 786280256,
+      "version": 26,
+      "versionNonce": 1310517056,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1753870140861,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          4.9640574661354435,
+          2.206247762726889
+        ],
+        [
+          5.515619406817166,
+          2.7578097034086113
+        ],
+        [
+          17.098420161133276,
+          30.887468678176276
+        ],
+        [
+          28.129658974767665,
+          50.74369854271822
+        ],
+        [
+          30.335906737494554,
+          51.295260483399886
+        ],
+        [
+          30.887468678176276,
+          51.295260483399886
+        ],
+        [
+          31.99059255953972,
+          51.295260483399886
+        ],
+        [
+          32.54215450022144,
+          51.295260483399886
+        ],
+        [
+          33.093716440903165,
+          51.84682242408161
+        ],
+        [
+          33.64527838158489,
+          47.43432689862789
+        ],
+        [
+          40.81558361044722,
+          40.81558361044722
+        ],
+        [
+          131.82330382293094,
+          -9.928114932270944
+        ],
+        [
+          142.85454263656533,
+          -14.340610457724722
+        ],
+        [
+          167.123268026561,
+          -32.54215450022144
+        ],
+        [
+          185.32481206905777,
+          -43.57339331385583
+        ],
+        [
+          196.90761282337388,
+          -48.53745077999133
+        ],
+        [
+          206.2841658149631,
+          -52.39838436476339
+        ],
+        [
+          213.45447104382544,
+          -56.25931794953539
+        ],
+        [
+          215.1091568658706,
+          -57.91400377158055
+        ],
+        [
+          218.97009045064266,
+          -61.77493735635261
+        ],
+        [
+          220.62477627268782,
+          -63.429623178397776
+        ],
+        [
+          226.6919576201867,
+          -67.29055676316977
+        ],
+        [
+          228.34664344223188,
+          -68.39368064453322
+        ],
+        [
+          228.34664344223188,
+          -68.39368064453322
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        228.34664344223188,
+        -68.39368064453322
+      ]
+    },
+    {
+      "id": "yOZWYbwvrk2pck56q22wA",
+      "type": "rectangle",
+      "x": -3134.4153507270544,
+      "y": 3642.356723572616,
+      "width": 2024.7169486170546,
+      "height": 2685.469741792802,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b6z",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1253576512,
+      "version": 137,
+      "versionNonce": 1754591040,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1753870270134,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "gfqp0R04yITrW4vpPava1",
+      "type": "text",
+      "x": -3099.581748471059,
+      "y": 3781.6104219403487,
+      "width": 1874.1591796875002,
+      "height": 1993.3345105865412,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b70",
+      "roundness": null,
+      "seed": 940324672,
+      "version": 835,
+      "versionNonce": 633507648,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1753874907955,
+      "link": null,
+      "locked": false,
+      "text": "3 Posts\n    3.1 Create post\n        url: POST sessions/prfile\n        aim: Create a new session.\n             It will automatically add the owner type and\ninstitute_id/trainer_id,\n             depending on the user is institute or trainer. \n    3.2 Get post\n        url: PUT sessions/{session_id}\n        aim: Update the session details.\n    3.3 Update post\n        url: DEL sessions/{session_id}\n        aim: Soft del the session.\n    3.4 Delete session by id\n        url: GET sessions/{session_id}\n        aim: get the Session details by session_id\n    3.5 Like post.\n        url: POST sessions/search-sessions\n        aim: Search sessions by title.\n    3.6 Get created sessions (with pagenation)\n        url: POST sessions/my-sessions\n        aim: get all the created sessions.(for trainer/institute's admin\npanel)\n    3.7 Enroll in a session [sends notification to trainer &/or institute]\n        url: POST sessions/enroll\n        aim: Req by a participant to enroll in a session.\n    3.8 Assign a trainer to a session\n        url: PATCH sessions/assign-trainer\n        aim: to assign a trainer to a sssion, created by institute.\n    3.9 Unassign a trainer to a session\n        url: PATCH sessions/unassign-trainer\n        aim: to unassign a trainer to a sssion, created by institute.\n    3.10 Update participants status[sends notification to respective user]\n        url: PATCH sessions/update-participant-status\n        aim: Accept/Reject/Cancel the participants request.",
+      "fontSize": 45.56193167054951,
+      "fontFamily": 8,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "3 Posts\n    3.1 Create post\n        url: POST sessions/prfile\n        aim: Create a new session.\n             It will automatically add the owner type and institute_id/trainer_id,\n             depending on the user is institute or trainer. \n    3.2 Get post\n        url: PUT sessions/{session_id}\n        aim: Update the session details.\n    3.3 Update post\n        url: DEL sessions/{session_id}\n        aim: Soft del the session.\n    3.4 Delete session by id\n        url: GET sessions/{session_id}\n        aim: get the Session details by session_id\n    3.5 Like post.\n        url: POST sessions/search-sessions\n        aim: Search sessions by title.\n    3.6 Get created sessions (with pagenation)\n        url: POST sessions/my-sessions\n        aim: get all the created sessions.(for trainer/institute's admin panel)\n    3.7 Enroll in a session [sends notification to trainer &/or institute]\n        url: POST sessions/enroll\n        aim: Req by a participant to enroll in a session.\n    3.8 Assign a trainer to a session\n        url: PATCH sessions/assign-trainer\n        aim: to assign a trainer to a sssion, created by institute.\n    3.9 Unassign a trainer to a session\n        url: PATCH sessions/unassign-trainer\n        aim: to unassign a trainer to a sssion, created by institute.\n    3.10 Update participants status[sends notification to respective user]\n        url: PATCH sessions/update-participant-status\n        aim: Accept/Reject/Cancel the participants request.",
+      "autoResize": false,
+      "lineHeight": 1.25
     }
   ],
   "appState": {
